@@ -1,3 +1,2 @@
 Note − Whenever you want to use something, you need to import it first. If you want to make the component usable in other parts of the app, you need to export it after creation and import it in the file where you want to use it.
 
-Create a file with name .babelrc and copy the following content to it.

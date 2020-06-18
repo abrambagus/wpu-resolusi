@@ -1,14 +1,3 @@
-I know I say I will change
-If you pull through for me
-But I'm back to?my?ways
-By the end?of the week
+Note − Whenever you want to use something, you need to import it first. If you want to make the component usable in other parts of the app, you need to export it after creation and import it in the file where you want to use it.
 
-Try to stand?on my own
-But I fall to my knees
-You're the shepherd
-That leaves the 100 for me
-
-By myself I may try my best
-But my best ain't good enough
-When my faith ain't strong and I can't go on
-And there's no one else to trust
+Create a file with name .babelrc and copy the following content to it.
